@@ -1,8 +1,7 @@
 # ECE5303 — Project #5: Chained Vulnerabilities (Bonus)
 **Arab Academy for Science, Technology and Maritime Transport (AAST-MT)**  
 College of Engineering & Technology — Computer Engineering Department  
-Course: ECE5303 Cybersecurity | Instructor: Eng. Eman Magdy  
-Team Lead: Youssef Ahmed | Reg#: 221010280
+
 
 ---
 
